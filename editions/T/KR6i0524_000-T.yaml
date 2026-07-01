@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0524/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大莊嚴法門經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0818.xml
+    old_id: T17n0818
+hash: sha256:5d7303fcfaed2bab6888dfd7799f45d51665dcb23cbfb3c19577305da02859ef
