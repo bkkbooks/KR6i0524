@@ -34,11 +34,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0524_000.yaml, hash: 'sha256:5d7303fcfaed2bab6888dfd7799f45d51665dcb23cbfb3c19577305da02859ef'}
-  - {seq: 1, filename: KR6i0524_001.yaml, hash: 'sha256:6e6776e081467fdc9beebffa29fb3190ffd4554589a394a6ff45f96aecc82748'}
-  - {seq: 2, filename: KR6i0524_002.yaml, hash: 'sha256:4626324aa4813a1e45b046c3485665e4a14c84800b38f4e939d772e7ef06ae14'}
+  - {seq: 1, filename: KR6i0524_001.yaml, hash: 'sha256:93fa4c00f880187e39fdac05362cc6fe119aa0fef972a3007e85889b744a6b2f'}
+  - {seq: 2, filename: KR6i0524_002.yaml, hash: 'sha256:57aa93ff0aa83a1e9183ea27493c941844ddf33f2eebcc127a3c67f6ba18d4c9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0524_001.markers.yaml, hash: 'sha256:1006e8ada064d068ddc0acc43082241bbb60277b4555feaaa9d016c4f54bdc6f'}
-  - {seq: 2, role: markers, filename: assets/KR6i0524_002.markers.yaml, hash: 'sha256:f2f76c2123d1649438a75048529ec48094f46f8dbea822b511d3e0c81bdff07a'}
+  - {seq: 0, role: markers, filename: assets/KR6i0524_000.markers.yaml, hash: 'sha256:88d1b95463ead86063762e1be26997a7cd1e145ac79065b5f27b0f070d170d43'}
+  - {seq: 1, role: markers, filename: assets/KR6i0524_001.markers.yaml, hash: 'sha256:0e25c96e68e07f0dc1853ec52092b82892217478c4f7817420c4700856a04fad'}
+  - {seq: 2, role: markers, filename: assets/KR6i0524_002.markers.yaml, hash: 'sha256:1bc04fe12ff3fb09168c7d02190c09a1277465e3f91283a932f53a91867b167c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -60,7 +61,4 @@ table_of_contents:
   label: 大莊嚴法門經卷下亦名文殊師利神通力經，亦名勝金色光明德女經
   type: juan
   level: 1
-hash: sha256:0e1b86b02e6ae3c876f5cdb9b7612ec85f29b15d7163464d5a94d7bc34d1657a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:61579df1216765ebfb4af85bd15795e4b358ce58712fa6561a2283ae4ffbd76c
